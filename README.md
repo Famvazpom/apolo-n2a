@@ -35,7 +35,7 @@
     Repositorio creado para almacenar las actividades de la materia Herramientas para la gestión de grandes volúmenes de datos.
     <br />
     <br />
-    <a href="https://github.com/famvazpom/apolo-n2a">Ver sitio</a>
+    <a href="https://famvazpom.github.io/apolo-n2a/">Ver sitio</a>
   </p>
 </p>
 
