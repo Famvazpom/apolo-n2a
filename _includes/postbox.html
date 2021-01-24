@@ -3,13 +3,13 @@
 
 <div class="col-md-6 grid-item">
     <div class="card">
-        <a href="{{ post.url | absolute_url }}">
+        <a href="{{ post.url | relative_url }}">
             {% if post.cover %} <img class="img-fluid"
                                      src="{{ site.baseurl }}/{{ post.cover }}"
                                      alt="{{ post.title }}"> {% endif %}
         </a>
         <div class="card-block">
-            <h2 class="card-title"><a href="{{ post.url | absolute_url }}">{{
+            <h2 class="card-title"><a href="{{ post.url | relative_url }}">{{
                 post.title }}</a></h2>
             <h4 class="card-text">{{ post.excerpt | strip_html |
                 truncatewords:30 }}</h4>
@@ -27,7 +27,7 @@
                 <span class="post-date">{{ post.date | date_to_string }}</span>
                 </span>
                     <span class="post-read-more"><a
-                            href="{{ post.url | absolute_url }}"
+                            href="{{ post.url | relative_url }}"
                             title="Read Story"><i
                             class="fa fa-link"></i></a></span>
                     <div class="clearfix"></div>

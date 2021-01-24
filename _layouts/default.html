@@ -66,7 +66,7 @@ endcapture %}
         <!-- Begin Logo -->
         <a class="navbar-brand" href="{{ site.baseurl }}/">
             {% if site.logo %}
-                <img class="logo-navbar" src="{{ site.logo | relative_url}}" alt="{{ site.name }}">
+                <img class="logo-navbar" src="{{ site.logo | relative_url }}" alt="{{ site.name }}">
             {% else %}
                 {{ site.name }}
             {% endif %}
@@ -170,7 +170,7 @@ endcapture %}
                 <p class="pull-left">
                     Made with Love in <a href="https://jekyllrb.com"
                                          target="_blank"><img
-                        src="/assets/images/jekyll.png" width="32px"
+                        src="{{ '/assets/images/jekyll.png' | relative_url }}" width="32px"
                         height="32px"/></a>
                     Copyright © {{ site.name }} - {{ site.time | date: "%Y" }}
                 </p>
@@ -206,12 +206,12 @@ endcapture %}
         integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn"
         crossorigin="anonymous"></script>
 
-<script src="{{  '/assets/js/ie10-viewport-bug-workaround.js' | relative_url}}"></script>
+<script src="{{  '/assets/js/ie10-viewport-bug-workaround.js' | relative_url }}"></script>
 
 <script type='text/javascript'
-        src="{{  '/assets/js/masonry.pkgd.min.js' | relative_url}}"></script>
+        src="{{  '/assets/js/masonry.pkgd.min.js' | relative_url }}"></script>
 
-<script src="{{  '/assets/js/theme.js' | relative_url}}"></script>
+<script src="{{  '/assets/js/theme.js' | relative_url }}"></script>
 
 </body>
 
