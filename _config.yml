@@ -1,26 +1,36 @@
 # Site
-name: John Doe
-description: Just another website
-meta_description: Just another website
+name: 'APOLO - N2A'
+description: Data Analytics Center
+meta_description: Data Analytics Center
 logo: /assets/images/logo.png
 favicon: /assets/images/favicon.ico
 paginate: 6
 baseurl:
-email: 'hello@john.doe'
-google_analytics: UA-103662447-9
-disqus:
-sharethis:
+email: 'famvazpom@gmail.com'
 
 # Authors
 authors:
-  john:
-    name: john
-    display_name: John Doe
-    image: /assets/images/john.jpg
-    email: hello@john.doe
-    web: http://example.com
-    twitter:
-    description: Hi, I am John Doe.
+  famvazpom:
+    name: Famvazpom
+    display_name: Noe Vazquez Pompa
+    image: /assets/images/team/famvazpom.jpg
+    email: famvazpom@gmail.com
+    web: 
+    description: Amante de los videojuegos y desarrollador.
+  noevaz:
+    name: noevaz
+    display_name: Noe Vazquez Arzapalo
+    image: /assets/images/team/noevaz.jpg
+    email: noe.42@hotmail.com
+    web: 
+    description: Amante de los videojuegos y desarrollador.
+  aimeegtz:
+    name: Famvazpom
+    display_name: Noe Vazquez Pompa
+    image: /assets/images/team/famvazpom.jpg
+    email: famvazpom@gmail.com
+    web: 
+    description: Amante de los videojuegos y desarrollador.
 
 # Plugins
 plugins:
