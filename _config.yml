@@ -52,20 +52,3 @@ jekyll-archives:
 markdown: kramdown
 highlighter: rouge
 
-# SEO
-twitter:
-  username: john
-  card: summary
-
-facebook:
-  app_id:
-  publisher: john.com
-  admins:
-
-social:
-name: 
-links:
-    - https://twitter.com/
-    - https://www.facebook.com/
-    - https://www.linkedin.com/
-    - https://github.com/
