@@ -9,6 +9,9 @@ author: famvazpom
 summary: Este es el primer post del sitio!
 ---
 
-Este es el primer post del sitio, aqui estaremos subiendo todos los trabajos relacionados con la materia
-
+Este es el primer post del sitio, aqui estaremos subiendo todos los trabajos relacionados con la materia:
 # Herramientas para la gestión de grandes volúmenes de datos
+
+Con el profesor:
+
+## Jairo Ayala
