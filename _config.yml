@@ -25,12 +25,12 @@ authors:
     web: 
     description: Amante de los videojuegos y desarrollador.
   aimeegtz:
-    name: Famvazpom
-    display_name: Noe Vazquez Pompa
-    image: /assets/images/team/famvazpom.jpg
-    email: famvazpom@gmail.com
+    name: aimeegtz
+    display_name: Aimee Gutiérrez May
+    image: /assets/images/team/aimeegtz.jpg
+    email: 
     web: 
-    description: Amante de los videojuegos y desarrollador.
+    description: 
 
 # Plugins
 plugins:
