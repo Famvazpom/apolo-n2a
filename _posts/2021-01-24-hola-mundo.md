@@ -4,7 +4,7 @@ cover:  assets/images/4.jpg
 title: Primer post!
 date: 2021-01-24 00:00:00
 categories: blog
-featured: True
+featured: False
 author: famvazpom
 summary: Este es el primer post del sitio!
 ---
