@@ -1,0 +1,54 @@
+# Site
+name: 'APOLO - N2A'
+description: Data Analytics Center
+meta_description: Data Analytics Center
+logo: /assets/images/logo.png
+favicon: /assets/images/favicon.ico
+paginate: 6
+baseurl:
+email: 'famvazpom@gmail.com'
+
+# Authors
+authors:
+  famvazpom:
+    name: Famvazpom
+    display_name: Noe Vazquez Pompa
+    image: /assets/images/team/famvazpom.jpg
+    email: famvazpom@gmail.com
+    web: 
+    description: Amante de los videojuegos y desarrollador.
+  noevaz:
+    name: noevaz
+    display_name: Noe Vazquez Arzapalo
+    image: /assets/images/team/noevaz.jpg
+    email: noe.42@hotmail.com
+    web: 
+    description: Amante de los videojuegos y desarrollador.
+  aimeegtz:
+    name: aimeegtz
+    display_name: Aimee Gutiérrez May
+    image: /assets/images/team/aimeegtz.jpg
+    email: 
+    web: 
+    description: 
+
+# Plugins
+plugins:
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+permalinks: pretty
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: 'category/:name/'
+
+# Other
+markdown: kramdown
+highlighter: rouge
+

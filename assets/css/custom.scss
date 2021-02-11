@@ -1,0 +1,33 @@
+---
+# Lets add a comment to make this file sass-y.
+# Change this file for any custom CSS.
+---
+// Import partials from `sass_dir` (defaults to `_sass`)
+
+@import "syntax";
+
+
+.team-photo
+{
+    border-radius: 50%;
+    width: 320px;
+    height: 320px;
+}
+
+.team-a
+{
+    box-shadow: initial !important;
+}
+
+.team-a:hover
+{
+    box-shadow: initial !important;
+}
+
+
+.logo-navbar
+{
+    width: 50px;
+    height: 50px;
+}
+
