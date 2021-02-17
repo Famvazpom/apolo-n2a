@@ -1152,7 +1152,7 @@ iframe {
 
     display: block;
     margin-left: auto;
-     margin-right: auto;
+    margin-right: auto;
     width: 50%;
 }
 
@@ -1161,4 +1161,15 @@ iframe {
     width: 100%;
     max-width: 400px;
     height: auto;
+}
+
+.logo_about {
+
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
 }
