@@ -1156,7 +1156,8 @@ iframe {
 }
 
 .logo_about {
-
+    
+    background-image: url(../images/fondo.png);
     background-size: cover;
     padding: 9rem 0;
     margin-top: -87px;
@@ -1166,3 +1167,5 @@ iframe {
     text-align: center;
 
 }
+
+
