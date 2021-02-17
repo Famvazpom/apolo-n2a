@@ -82,7 +82,7 @@ section.recent-posts {
     top: 12px;
     height: 1px;
     content: '';
-    background-color: ;
+    background-color: black;
 }
 
 .section-title span {
