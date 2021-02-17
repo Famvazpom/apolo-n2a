@@ -434,9 +434,6 @@ span.post-name a, span.post-read-more a:hover {
 .footer {
     border-top: 1px solid rgba(0, 0, 0, .05) !important;
     position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
     color: white;
     margin-top: 50px;
     margin-bottom: 0px;
