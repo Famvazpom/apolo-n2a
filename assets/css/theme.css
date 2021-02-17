@@ -145,7 +145,7 @@ section.recent-posts {
 
 .navbar-toggleable-md .navbar-nav .nav-link.highlight {
     background: #6FD350;
-    color: #fff;
+    color: #675bff;
     border-radius: 4px;
     box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.1);
     padding-left: 1em;
@@ -161,7 +161,7 @@ section.recent-posts {
 .navbar-toggleable-md .navbar-nav .nav-link {
     margin-left: 1rem;
     font-weight: 500;
-    color: #000;
+    color: white;
     text-transform: uppercase;
     letter-spacing: 1px;
     font-size: 0.94em;
@@ -733,8 +733,8 @@ a.btn {
 }
 
 .btn-primary {
-    background-color: #675bff;
-    border-color: #675bff;
+    background-color: black;
+    border-color: Black;
 }
 
 .btn.follow {
