@@ -433,12 +433,12 @@ span.post-name a, span.post-read-more a:hover {
 
 .footer {
     border-top: 1px solid rgba(0, 0, 0, .05) !important;
-    position: fixed;
     color: white;
     margin-top: 50px;
     margin-bottom: 0px;
     background-color: #5858cb;
     padding: 30px 0px 30px 0;
+    
 }
 
 .footersocial i {
@@ -1158,11 +1158,9 @@ iframe {
 
 .logo_about {
 
-    
-    padding: 9rem 0;
-    margin-top: -87px;
-    margin-bottom: 3.5rem;
-    z-index: 1;
-    position: relative;
+    width: 400%;
+    max-width: 400px;
+    height: auto;
+    text-align: center;
 
 }
