@@ -1148,14 +1148,6 @@ iframe {
 }
 
 
-.mr-auto ml-auto{
-
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
-
 .team-photo {
 
     width: 100%;
@@ -1168,8 +1160,5 @@ iframe {
     width: 100%;
     max-width: 400px;
     height: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
 
 }
