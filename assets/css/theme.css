@@ -347,7 +347,7 @@ span.post-name a, span.post-read-more a:hover {
 
 .mediumnavigation .form-inline .btn:hover, .mediumnavigation .form-inline .btn:active {
     background: transparent;
-    color: green;
+    color: #5858cb;
 }
 
 .mediumnavigation .navbar-brand {
@@ -436,7 +436,7 @@ span.post-name a, span.post-read-more a:hover {
     color: #999;
     margin-top: 50px;
     margin-bottom: 0px;
-    background-color: #000;
+    background-color: #5858cb;
     padding: 30px 0px 30px 0;
 }
 
