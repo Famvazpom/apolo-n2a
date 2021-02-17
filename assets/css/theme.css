@@ -451,7 +451,7 @@ span.post-name a, span.post-read-more a:hover {
     box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.1);
     font-size: 18px;
     margin-left: 5px;
-    color: #3c3838;
+    color: #a89797;
     margin-top: 10px;
 }
 
@@ -1150,5 +1150,15 @@ iframe {
 
 .mr-auto ml-auto{
 
-    text-align: center;
+    display: block;
+    margin-left: auto;
+     margin-right: auto;
+    width: 50%;
+}
+
+.team-photo {
+
+    width: 100%;
+    max-width: 400px;
+    height: auto;
 }
