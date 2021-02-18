@@ -2,14 +2,14 @@
 layout: post
 cover:  assets/images/musica.png
 title: Web Scraping
-date: 2021-02-17 00:00:00
+date: 2021-02-09 00:00:00
 categories: blog
 featured: True
 author: aimeegtz
 summary: Introducción a la Visualización de Datos
 ---
 
-Material 1:
+Material 2:
 # Herramientas para la gestión de grandes volúmenes de datos
 
 Con el profesor:
