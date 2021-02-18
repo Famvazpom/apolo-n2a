@@ -39,14 +39,16 @@ Este proyecto necesita 2 cuentas en cada plataforma, para compara los gustos mus
 ## Alternativa al Web Scraping<a name="id2"></a>
 Por lo que intentamos hacer Web Scraping pero al no obtener respuesta descargamos los datos y los procesamos de otra manera:
 
-https://benjaminbenben.com/lastfm-to-csv/ descargamos los datos del url como se ve en la siguiente imagen (página creada de un repositorio de github que ya realizo el web saraping de la plataforma).
+[Url para el Web Scraping](https://benjaminbenben.com/lastfm-to-csv/)
+
+Descargamos los datos del url como se ve en la siguiente imagen (página creada de un repositorio de github que ya realizo el web saraping de la plataforma).
 Limpiamos los datos con Python (código adjuntado en otro archivo).
 Visualizamos la información.
 
 
 
 ## DATA CLEANING & VISUALIZATION <a name="id3"></a>
-hora vamos a desplegar las características que buscábamos de nuestro tema a investigar:
+Ahora vamos a desplegar las características que buscábamos de nuestro tema a investigar:
 
 
 [Consultar la documentación](https://www.canva.com/design/DAEVsXFPsk4/HqSYjHjPCJe28ljDhmO4Yw/view?utm_content=DAEVsXFPsk4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
