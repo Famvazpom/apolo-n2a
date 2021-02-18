@@ -23,6 +23,7 @@ Con el profesor:
 4. [¿Quiénes la usan?](#id4)
 5. [Ventajas y desventajas](#id5)
 6. [Demo de Matillion](#id6)
+6. [Documentación](#id7)
 
 
 
@@ -47,13 +48,8 @@ nube y luego realiza las transformaciones necesarias para que los datos
 sean consumibles por herramientas de análisis como Looker, Tableau, 
 Power BI y más.
 
-<img src="{{ site.baseurl }} ../assets/images/matillion.png">
 
-[image](../assets/images/matillion.png)
-
-[useful image]({{ site.url }}../assets/images/matillion.png)
-
-[this screenshot](https://github.com/Famvazpom/apolo-n2a/blob/gh-pages/assets/images/m_como.png)
+[Imagen del funcionamiento de Matillion](https://github.com/Famvazpom/apolo-n2a/blob/gh-pages/assets/images/m_como.png)
 
 
 ## ¿Quiénes la usan?<a name="id4"></a>
@@ -74,7 +70,10 @@ Power BI y más.
     - No hay tiempo de prueba, solo demostración de uso.
 
 
-## Segundo apartado<a name="id6"></a>
-Texto del segundo apartado
+## DEMO <a name="id6"></a>
+
+[Casos de Estudio](https://www.matillion.com/case-studies/)
+
+## Documentación <a name="id7"></a>
 
 [Enlace a la presentación](https://www.canva.com/design/DAEU9rEyVjA/share/preview?token=loNBFQ1P6Y36G42w3TPejA&role=EDITOR&utm_content=DAEU9rEyVjA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
