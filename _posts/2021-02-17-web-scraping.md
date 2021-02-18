@@ -1,6 +1,6 @@
 ---
 layout: post
-cover:  assets/images/matillion.png
+cover:  assets/images/musica.png
 title: Web Scraping
 date: 2021-02-17 00:00:00
 categories: blog
@@ -60,4 +60,6 @@ hora vamos a desplegar las características que buscábamos de nuestro tema a in
 
 ## Documentación <a name="id7"></a>
 
-[Enlace a la presentación](https://www.canva.com/design/DAEVsXFPsk4/HqSYjHjPCJe28ljDhmO4Yw/view?utm_content=DAEVsXFPsk4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelinkn)
+[Enlace del documento](https://www.canva.com/design/DAEVsXFPsk4/HqSYjHjPCJe28ljDhmO4Yw/view?utm_content=DAEVsXFPsk4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelinkn)
+
+[Enlace de Tableau Public](https://public.tableau.com/views/Lastfm_16010676980070/Dashboard1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link)
