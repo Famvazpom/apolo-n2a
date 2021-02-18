@@ -47,7 +47,7 @@ nube y luego realiza las transformaciones necesarias para que los datos
 sean consumibles por herramientas de análisis como Looker, Tableau, 
 Power BI y más.
 
-<img src="{{ site.baseurl }} assets/images/matillion.png">
+<img src="{{ site.baseurl }} ../assets/images/matillion.png">
 
 ## ¿Quiénes la usan?<a name="id4"></a>
 - DocuSing: DocuSign redujo el tiempo requerido para trabajos de larga ejecución de más de 22 horas a solo 6 horas.
