@@ -53,7 +53,7 @@ Power BI y más.
 
 [useful image]({{ site.url }}../assets/images/matillion.png)
 
-![this screenshot](https://github.com/Famvazpom/apolo-n2a/blob/gh-pages/assets/images/m_como.png)
+[this screenshot](https://github.com/Famvazpom/apolo-n2a/blob/gh-pages/assets/images/m_como.png)
 
 
 ## ¿Quiénes la usan?<a name="id4"></a>
