@@ -49,9 +49,8 @@ Power BI y más.
 
 <img src="{{ site.baseurl }} ../assets/images/matillion.png">
 
-![image](assets/images/matillion.png)
+[image](../assets/images/matillion.png)
 
-[label](http://example.com)
 
 ## ¿Quiénes la usan?<a name="id4"></a>
 - DocuSing: DocuSign redujo el tiempo requerido para trabajos de larga ejecución de más de 22 horas a solo 6 horas.
@@ -73,3 +72,5 @@ Power BI y más.
 
 ## Segundo apartado<a name="id6"></a>
 Texto del segundo apartado
+
+[Enlace a la presentación](https://www.canva.com/design/DAEU9rEyVjA/share/preview?token=loNBFQ1P6Y36G42w3TPejA&role=EDITOR&utm_content=DAEU9rEyVjA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
