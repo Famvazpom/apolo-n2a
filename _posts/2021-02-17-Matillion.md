@@ -51,6 +51,8 @@ Power BI y más.
 
 [image](../assets/images/matillion.png)
 
+![useful image]({{ site.url }}../assets/images/matillion.png)
+
 
 ## ¿Quiénes la usan?<a name="id4"></a>
 - DocuSing: DocuSign redujo el tiempo requerido para trabajos de larga ejecución de más de 22 horas a solo 6 horas.
